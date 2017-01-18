@@ -77,7 +77,7 @@
 <v t="leo.20161014111031.39"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.40"><vh>各式內容引用範例</vh>
+<v t="leo.20161014111031.40" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20161014111031.41" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161014111031.42"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -93,7 +93,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -116,7 +116,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -710,7 +710,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [40423208](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423208](https://40423208.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
 [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
