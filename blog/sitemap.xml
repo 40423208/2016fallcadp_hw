@@ -5,28 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
+<<<<<<< HEAD
 <lastmod>2017-01-18T22:32:11-00:00</lastmod>
+=======
+<lastmod>2017-01-18T16:18:17-00:00</lastmod>
+>>>>>>> 93b8f108baaaebd24de4dcc2a10e5b197d0e4429
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-01-18T22:32:11-00:00</lastmod>
+=======
+<lastmod>2017-01-18T16:18:17-00:00</lastmod>
+>>>>>>> 93b8f108baaaebd24de4dcc2a10e5b197d0e4429
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-01-18T22:32:11-00:00</lastmod>
+=======
+<lastmod>2017-01-18T16:18:17-00:00</lastmod>
+>>>>>>> 93b8f108baaaebd24de4dcc2a10e5b197d0e4429
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-01-18T22:32:11-00:00</lastmod>
+=======
+<lastmod>2017-01-18T16:18:17-00:00</lastmod>
+>>>>>>> 93b8f108baaaebd24de4dcc2a10e5b197d0e4429
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +50,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2017-01-18T16:16:39+08:00</lastmod>
+<<<<<<< HEAD
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +58,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./qi-mo-xin-de.html</loc>
 <lastmod>2017-01-16T12:00:00+08:00</lastmod>
+=======
+>>>>>>> 93b8f108baaaebd24de4dcc2a10e5b197d0e4429
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
